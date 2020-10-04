@@ -7,31 +7,31 @@ module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by John Doe',
+    title: 'Marcos Henrique Dev',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      'Compartilhando conhecimento com os devs',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: 'Artigos',
         path: '/',
       },
       {
-        label: 'About me',
+        label: 'Sobre mim',
         path: '/about/',
       },
       {
-        label: 'Contact me',
+        label: 'Contato',
         path: '/contact/',
       },
     ],
     author: {
-      name: 'John Doe',
+      name: 'Marcos Henrique',
       email: '#',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'MhDevelop',
+      github: 'marcoshenrique-dev',
       rss: '#',
       vk: '#',
     },
